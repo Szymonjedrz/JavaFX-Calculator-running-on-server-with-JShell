@@ -1,0 +1,79 @@
+#cancel {
+   -fx-background-color: darkgrey;
+}
+
+#cancel: focused {
+    -fx-background-color: darkgrey;
+    -fx-border-color: black;
+}
+
+#plusOrMinus {
+   -fx-background-color: darkgrey;
+}
+
+#plusOrMinus: focused {
+    -fx-background-color: darkgrey;
+    -fx-border-color: black;
+}
+
+#percent {
+   -fx-background-color: darkgrey;
+}
+
+#percent: focused {
+    -fx-background-color: darkgrey;
+    -fx-border-color: black;
+}
+
+#divide {
+   -fx-background-color: orange;
+}
+
+#divide: focused {
+    -fx-background-color: orange;
+    -fx-border-color: black;
+}
+
+#multiply {
+   -fx-background-color: orange;
+}
+
+#multiply: focused {
+    -fx-background-color: orange;
+    -fx-border-color: black;
+}
+
+#minus {
+   -fx-background-color: orange;
+}
+
+#minus: focused {
+    -fx-background-color: orange;
+    -fx-border-color: black;
+}
+
+#plus {
+   -fx-background-color: orange;
+}
+
+#plus: focused {
+    -fx-background-color: orange;
+    -fx-border-color: black;
+}
+
+#equals {
+   -fx-background-color: orange;
+}
+
+#equals: focused {
+    -fx-background-color: orange;
+    -fx-border-color: black;
+}
+
+#result {
+    -fx-text-fill: white;
+}
+
+#pane {
+    -fx-background-color: black;
+}
